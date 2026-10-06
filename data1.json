@@ -1,0 +1,48 @@
+{
+  "type": "folder",
+  "name": "Projects",
+  "modifiedDate": "2026-09-10T14:32:00",
+  "isHidden": false,
+  "contents": [
+    {
+      "type": "file",
+      "name": "report.docx",
+      "sizeBytes": 458752,
+      "modifiedDate": "2026-09-12T09:15:00",
+      "isHidden": false,
+      "lastOpenedDate": "2026-09-14T08:20:00"
+    },
+    {
+      "type": "file",
+      "name": "diagram.png",
+      "sizeBytes": 1204322,
+      "modifiedDate": "2026-08-30T17:40:00",
+      "isHidden": false,
+      "lastOpenedDate": null
+    },
+    {
+      "type": "folder",
+      "name": ".backup",
+      "modifiedDate": "2026-09-01T11:00:00",
+      "isHidden": true,
+      "contents": [
+        {
+          "type": "file",
+          "name": "report_old.docx",
+          "sizeBytes": 401024,
+          "modifiedDate": "2026-08-15T10:05:00",
+          "isHidden": false,
+          "lastOpenedDate": "2026-08-20T13:10:00"
+        },
+        {
+          "type": "file",
+          "name": "config.ini",
+          "sizeBytes": 512,
+          "modifiedDate": "2026-08-15T10:05:00",
+          "isHidden": true,
+          "lastOpenedDate": null
+        }
+      ]
+    }
+  ]
+}

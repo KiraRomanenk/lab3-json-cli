@@ -8,7 +8,7 @@ program
   .name("foldercli")
   .description("CLI-програма для перегляду вмісту каталогу диска, збереженого у форматі JSON")
   .version("1.0.0")
-  .option("-f, --file <path>", "шлях до JSON-файлу з даними каталогу", "data.json");
+  .option("-f, --file <path>", "шлях до JSON-файлу з даними каталогу", "data1.json");
 
 function loadData(filePath) {
   let raw;
@@ -178,6 +178,7 @@ program
     const bytes = totalSize(target);
     console.log(`Сумарний розмір "${target.name}": ${bytes} байт`);
   });
+
 
 program
   .command("find <query>")

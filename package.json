@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/KiraRomanenk/lab3-json-cli/issues"
   },
-  "homepage": "https://github.com/KiraRomanenk/lab3-json-cli#readme"
+  "homepage": "https://github.com/KiraRomanenk/lab3-json-cli#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
 }
